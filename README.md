@@ -8,7 +8,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=SalmaGhareeb&hide=stars&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/SalmaGhareeb?tab=repositories) 
 <br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaGhareb&langs_count=6&layout=compact&theme=material-palenight)](https://github.com/SalmaGhareeb?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaGhareeb&langs_count=6&layout=compact&theme=material-palenight)](https://github.com/SalmaGhareeb?tab=repositories)
 
 ## See ya!
 
