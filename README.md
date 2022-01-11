@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working as a Senior Backend Engineer at [AMBOSS](https://amboss.com).
 - 👩‍ Tech coach at [Imagine](https://www.joinimagine.com/) , feel free to apply [here](https://joinimagine.typeform.com/to/vWwyEF/salma).
-- 💬 You can ask me about anything [by sending me an email](mailto:salmahabdelhady@gmail.com?subject=[GITHUB] ).
+- 💬 You can contact directly [by sending me an email](mailto:salmahabdelhady@gmail.com?subject=[GITHUB] ).
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
