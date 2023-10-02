@@ -5,5 +5,3 @@
 - 💬 You can contact directly [by sending me an email](mailto:salmahabdelhady@gmail.com?subject=[GITHUB] ).
 
 ## See ya!
-
-<img src="https://media.giphy.com/media/48FhEMYGWji8/source.gif">
